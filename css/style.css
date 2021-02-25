@@ -178,6 +178,9 @@ ul{
     padding: 0;
     vertical-align: top;
 }
+.slick-active button{
+    border: 5px solid black !important;
+}
 .slick-dots button{
     border: none;
     text-indent: -9999px;
