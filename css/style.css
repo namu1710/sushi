@@ -179,7 +179,7 @@ ul{
     vertical-align: top;
 }
 .slick-active button{
-    border: 5px solid black !important;
+    border: 5px solid #6DCFF6 !important;
 }
 .slick-dots button{
     border: none;
